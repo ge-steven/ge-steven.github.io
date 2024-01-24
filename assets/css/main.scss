@@ -1,0 +1,70 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.sidebar p, .sidebar li {
+    font-size: 0.9em !important;
+}
+
+.nav__sub-title {
+    font-size: 0.9em !important;
+    padding-left: 1em !important;
+}
+
+#main {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    max-width: 100% !important;
+}
+
+.body {
+    max-width: 100% !important;
+}
+
+.sidebar p, .sidebar li ul li a {
+    padding-left: 1em !important;
+}
+
+.nav__list .nav__items .active {    
+    margin-left: 0em !important;
+    background-color: #f2f3f3;
+    width: 100% !important;
+    height: 100% !important;
+    display: inherit;
+}
+
+.page__title {
+    padding: 2% !important;
+}
+
+.entries-list {
+    padding: 2% !important;
+}
+
+.page__content {
+    padding: 2% !important;
+}
+
+.page__meta {
+    padding-left: 2% !important;
+}
+
+
+.page__taxonomy {
+    display: none;
+}
+
+.page__date{
+    display: none;
+}
+
+.nav__list label {
+    width: 100%;
+}
