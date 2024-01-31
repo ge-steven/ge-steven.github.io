@@ -18,3 +18,21 @@ Contact information
 | **E-mail** | ge.s.aa[at]m.titech.ac.jp |
 | ========= | ========= |
 | | replace "[at]" with "@" |
+
+Publications
+-------------------
+
+* <b>Popularity on the Roommate Diversity Problem</b>
+
+     Steven Ge; Toshiya Itoh
+     
+     <a href="https://doi.org/10.1007/978-3-031-49611-0_23">DOI: 10.1007/978-3-031-49611-0_23</a> 
+     
+     COCOA 2023: Combinatorial Optimization and Applications
+* <b>Characterization of the Imbalance Problem on Complete Bipartite Graphs</b>
+
+     Steven Ge; Toshiya Itoh
+     
+     <a href="https://doi.org/10.1007/978-3-031-20350-3_6">DOI: 10.1007/978-3-031-20350-3_6</a> 
+     
+     TAMC 2022: Theory and Applications of Models of Computation
