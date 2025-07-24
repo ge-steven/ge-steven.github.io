@@ -8,14 +8,12 @@ sidebar:
   nav: "sidebar-en"
 ---
 
-I am a PhD student at Tokyo Institute of Technology in mathematical and computing science program supervised by professor Toshiya Itoh. My interests lies in the design and analysis of algorithms, that is, create efficient algorithms for or show hardness of computational problems. On this website I shall share information my research and occasionally non-research related information.
+I am a PhD graduate from Institute of Science Tokyo in the Mathematical and Computing Science program supervised by professor Toshiya Itoh. My interests lies in the design and analysis of algorithms, that is, create efficient algorithms for or show hardness of computational problems. On this website I shall share information my research and occasionally non-research related information.
 
 Contact information
 -------------------
 
-| **Address** | 1-chōme-31 Ishikawachō, Ota City, Tokyo 145-0061 |
-| **Location** | Itoh Laboratory (10F West Building 8E) |
-| **E-mail** | ge.s.aa[at]m.titech.ac.jp |
+| **E-mail** | ge.steven.academic[at]gmail.com |
 | ========= | ========= |
 | | replace "[at]" with "@" |
 

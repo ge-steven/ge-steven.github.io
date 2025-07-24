@@ -13,7 +13,7 @@ sidebar:
             <hr style="border-top: 2px solid #a6a6a6;">
             <div style="width:100%;overflow: auto">
                 <div style="height:100%; width:74%; float:left;">
-                    <p style="margin:inherit">April 2021 - now</p>
+                    <p style="margin:inherit">April 2021 - March 2025</p>
                     <h2 style="margin:inherit;border-bottom: 0px">Doctoral Degree in Mathematical and Computing Science</h2>
                     <h4 style="margin:inherit; margin-bottom: 0px;margin-top: 0px;">Tokyo Institute of Technology</h4>
                     <!-- <p style="margin:inherit">Thesis: Characterization of the Imbalance Problem on Complete Bipartite Graphs. <a href="https://arxiv.org/abs/2111.00154">Click here</a> to go to the Arxiv page.</p> -->
