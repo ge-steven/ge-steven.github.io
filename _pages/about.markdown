@@ -16,7 +16,7 @@ sidebar:
                     <p style="margin:inherit">April 2021 - March 2025</p>
                     <h2 style="margin:inherit;border-bottom: 0px">Doctoral Degree in Mathematical and Computing Science</h2>
                     <h4 style="margin:inherit; margin-bottom: 0px;margin-top: 0px;">Tokyo Institute of Technology</h4>
-                    <!-- <p style="margin:inherit">Thesis: Characterization of the Imbalance Problem on Complete Bipartite Graphs. <a href="https://arxiv.org/abs/2111.00154">Click here</a> to go to the Arxiv page.</p> -->
+                    <p style="margin:inherit">Thesis: Popularity on Variations of Multidimensional Roommate Games. <a href="https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?q_publication_content_number=CTT100929299">Click here</a> to go to the Science Tokyo Research Repository page.</p>
                 </div>
                 <div style="margin-left:75%;width:24%;text-align: right;">
                      <img style="width:50%;" src="/assets/images/tokyotech-logo.svg"> 
