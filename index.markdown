@@ -9,13 +9,13 @@ sidebar:
 ---
 
 <div>
-     <div style="width:70%; float: left">
+     <p>
+          <img class="align-left" src="assets/images/profile-picture.jpg"  alt="Profile picture" style="width:10em">
           I am a Postdoctoral Researcher in the Discrete Mathematics Group of the ERATO KOJIMA Market Design Project. My interests lies in the design and analysis of algorithms, that is, create efficient algorithms for or show hardness of computational problems. In particular, recently I mostly investigate algorithmic coalition formation and matching under preferences. On this website I shall share information about my research and occasionally non-research related information and projects.
-     </div>
-     <div style="margin-left: 85%; width:14%">
-          <img src="assets/images/profile-picture.jpg"  alt="Profile picture">
-     </div>
+     </p>
 </div>
+
+<br>
 
 Contact information
 -------------------
@@ -23,6 +23,8 @@ Contact information
 | **E-mail** | ge.steven.academic[at]gmail.com |
 | ========= | ========= |
 | | replace "[at]" with "@" |
+
+<br>
 
 Publications
 -------------------
