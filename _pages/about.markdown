@@ -13,6 +13,20 @@ sidebar:
             <hr style="border-top: 2px solid #a6a6a6;">
             <div style="width:100%;overflow: auto">
                 <div style="height:100%; width:74%; float:left;">
+                    <p style="margin:inherit">June 2026 - March 2027</p>
+                    <h2 style="margin:inherit;border-bottom: 0px">Postdoctoral Researcher in the Discrete Mathematics Group</h2>
+                    <h4 style="margin:inherit; margin-bottom: 0px;margin-top: 0px;">Keio University</h4>
+                    <p style="margin:inherit">From the viewpoint of discrete mathematics, we aim to analyze a wide range of problems with discrete structures and develop efficient algorithms to solve them.</p>
+                </div>
+                <div style="margin-left:75%;width:24%;text-align: right;">
+                     <img style="width:50%;" src="/assets/images/keio-logo.png"> 
+                </div>
+            </div>
+        </div>
+        <div style="width:100%;overflow: auto">
+            <hr style="border-top: 2px solid #a6a6a6;">
+            <div style="width:100%;overflow: auto">
+                <div style="height:100%; width:74%; float:left;">
                     <p style="margin:inherit">April 2021 - March 2025</p>
                     <h2 style="margin:inherit;border-bottom: 0px">Doctoral Degree in Mathematical and Computing Science</h2>
                     <h4 style="margin:inherit; margin-bottom: 0px;margin-top: 0px;">Institute of Science Tokyo</h4>

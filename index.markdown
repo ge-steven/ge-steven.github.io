@@ -8,7 +8,14 @@ sidebar:
   nav: "sidebar-en"
 ---
 
-I am a PhD graduate from Institute of Science Tokyo in the Mathematical and Computing Science program supervised by professor Toshiya Itoh. My interests lies in the design and analysis of algorithms, that is, create efficient algorithms for or show hardness of computational problems. On this website I shall share information my research and occasionally non-research related information.
+<div>
+     <div style="width:70%; float: left">
+          I am a Postdoctoral Researcher in the Discrete Mathematics Group of the ERATO KOJIMA Market Design Project. My interests lies in the design and analysis of algorithms, that is, create efficient algorithms for or show hardness of computational problems. In particular, recently I mostly investigate algorithmic coalition formation and matching under preferences. On this website I shall share information about my research and occasionally non-research related information and projects.
+     </div>
+     <div style="margin-left: 85%; width:14%">
+          <img src="assets/images/profile-picture.jpg"  alt="Profile picture">
+     </div>
+</div>
 
 Contact information
 -------------------
