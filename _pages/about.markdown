@@ -7,7 +7,7 @@ sidebar:
 ---
 
 <div style="margin:0%">
-    <h1 style="border-bottom: 0px">Education</h1>
+    <h1 style="border-bottom: 0px">Experience</h1>
     <div style="margin:inherit">
         <div style="width:100%;overflow: auto">
             <hr style="border-top: 2px solid #a6a6a6;">
@@ -23,6 +23,15 @@ sidebar:
                 </div>
             </div>
         </div>
+    <hr style="border-top: 2px solid #a6a6a6;">
+</div>
+<br>
+<br>
+<br>
+<br>
+<div style="margin:0%">
+    <h1 style="border-bottom: 0px">Education</h1>
+    <div style="margin:inherit">
         <div style="width:100%;overflow: auto">
             <hr style="border-top: 2px solid #a6a6a6;">
             <div style="width:100%;overflow: auto">
