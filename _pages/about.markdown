@@ -15,7 +15,8 @@ sidebar:
                 <div style="height:100%; width:74%; float:left;">
                     <p style="margin:inherit">June 2026 - March 2027</p>
                     <h2 style="margin:inherit;border-bottom: 0px">Postdoctoral Researcher in the Discrete Mathematics Group</h2>
-                    <h4 style="margin:inherit; margin-bottom: 0px;margin-top: 0px;">Keio University, ERATO KOJIMA Market Design Project</h4>
+                    <h4 style="margin:inherit; margin-bottom: 0px;margin-top: 0px;">Keio University</h4>
+                    <h5 style="margin:inherit; margin-bottom: 0px;margin-top: 0px;">ERATO KOJIMA Market Design Project</h5>
                     <p style="margin:inherit">From the viewpoint of discrete mathematics, we aim to analyze a wide range of problems with discrete structures and develop efficient algorithms to solve them.</p>
                 </div>
                 <div style="margin-left:75%;width:24%;text-align: right;">
