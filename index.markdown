@@ -8,9 +8,9 @@ sidebar:
   nav: "sidebar-en"
 ---
 
-<div>
+<div style="min-height:12em">
      <p>
-          <img class="align-left" src="assets/images/profile-picture.jpg"  alt="Profile picture" style="width:10em">
+          <img class="align-left" src="assets/images/profile-picture.jpg"  alt="Profile picture" style="height:12em">
           I am a Postdoctoral Researcher in the Discrete Mathematics Group of the ERATO KOJIMA Market Design Project. My interests lies in the design and analysis of algorithms, that is, create efficient algorithms for or show hardness of computational problems. In particular, recently I mostly investigate algorithmic coalition formation and matching under preferences. On this website I shall share information about my research and occasionally non-research related information and projects.
      </p>
 </div>
