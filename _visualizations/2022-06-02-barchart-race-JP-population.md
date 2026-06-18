@@ -10,7 +10,7 @@ header:
   teaser: assets/images/barchartjppop.png
 ---
 
-<iframe id="barchart" src="https://ge-steven.github.io/barchart-race-JP-population/" style="width:100%; overflow: hidden;" allowfullscreen="" frameborder="0">
+<iframe id="barchart" src="https://ge-steven.github.io/barchart-race-JP-population/" style="width:100%; overflow: hidden; height: 100dvh;" allowfullscreen="" frameborder="0">
 </iframe>
 <p>Data source: <a href="https://en.wikipedia.org/wiki/List_of_Japanese_prefectures_by_population">https://en.wikipedia.org/wiki/List_of_Japanese_prefectures_by_population</a></p>
 

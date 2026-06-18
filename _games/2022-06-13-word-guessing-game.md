@@ -10,7 +10,7 @@ header:
   teaser: assets/images/wordguessinggame.png
 ---
 
-<iframe id="game" src="https://ge-steven.github.io/word-guessing-game/" style="width:100%; overflow: hidden;" allowfullscreen="" frameborder="0">
+<iframe id="game" src="https://ge-steven.github.io/word-guessing-game/" style="width:100%; overflow: hidden; height: 100dvh;" allowfullscreen="" frameborder="0">
 </iframe>
 
 [Fullscreen](https://ge-steven.github.io/word-guessing-game/)

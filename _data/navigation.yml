@@ -24,3 +24,5 @@ sidebar-en:
         url: /visualizations/
       - title: "Games"
         url: /games/
+      - title: "Computational Tools"
+        url: /computational-tools/
