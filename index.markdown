@@ -43,3 +43,25 @@ Publications
      Steven Ge; Toshiya Itoh<br>
      <a href="https://doi.org/10.1007/978-3-031-20350-3_6">DOI: 10.1007/978-3-031-20350-3_6</a><br>
      TAMC 2022: Theory and Applications of Models of Computation
+
+<br>
+
+Erdős Number
+-------------------
+
+<div id="distance-result" style="text-align: center;">
+  <div style="font-weight: bold;"><a href="https://en.wikipedia.org/wiki/Paul_Erd%C5%91s">Paul Erdős</a></div>
+    <div>
+      <div><a href="https://scholar.google.com/scholar?hl=en&q=author%3A%22P+Erdos%22+author%3A%22N+Alon%22">co-authored</a> with</div>
+      <div style="font-weight: bold;"><a href="https://en.wikipedia.org/wiki/Noga_Alon">Noga Alon</a></div>
+    </div>
+    <div>
+      <div><a class="papers-link" href="https://scholar.google.com/scholar?hl=en&q=author%3A%22N+Alon%22+author%3A%22T+Itoh%22">co-authored</a> with</div>
+      <div style="font-weight: bold;"><a href="https://researchmap.jp/TEES-1989_2015">Toshiya Itoh</a></div>
+    </div>
+    <div>
+      <div><a href="https://scholar.google.com/scholar?hl=en&q=author%3A%22T+Itoh%22+author%3A%22S+Ge%22">co-authored</a> with</div>
+    </div>
+    <div style="font-weight: bold;"><a href="https://ge-steven.github.io/">Steven Ge</a></div>
+    <div style="font-weight: bold;">Collaborative Distance = 3</div>
+</div>

@@ -1,0 +1,16 @@
+.distance-result { padding-left: 12px; border-left: 2px solid #ddd;}
+.coauthor { margin-bottom: 1em; }
+.details-btn {
+  cursor: pointer;
+  color: #0066cc;
+  text-decoration: underline;
+  background: none;
+  border: 0;
+  padding: 0;
+  font: inherit;
+  display: inline-block;
+  margin: 6px 0;
+}
+#details { display: block; padding-left: 14px; border-left: 2px solid #ddd; }
+.papers-link { margin-left: 6px; }
+.distance { font-weight: bold; }
